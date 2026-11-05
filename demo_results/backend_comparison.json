@@ -1,0 +1,43 @@
+{
+  "compared_candidates": 100,
+  "decision_differences": [],
+  "mujoco_counts": {
+    "accepted": 12,
+    "grasp_collision": 10,
+    "ik_grasp": 9,
+    "ik_pregrasp": 69
+  },
+  "coal_counts": {
+    "accepted": 12,
+    "grasp_collision": 10,
+    "ik_grasp": 9,
+    "ik_pregrasp": 69
+  },
+  "coal_detour_recheck_at_rad": 0.005,
+  "coal_detour_validations": {
+    "coal": true,
+    "mujoco": true
+  },
+  "coal_execution": {
+    "lift_success": true,
+    "object_lift_m": 0.1449553132218836,
+    "final_clearance_m": 0.1445727231753493,
+    "min_hold_clearance_m": 0.1445126268002288,
+    "hold_relative_drift_m": 3.885766090806838e-05,
+    "total_relative_slip_m": 0.00038681315454980515,
+    "hold_bilateral_contact_fraction": 1.0,
+    "hold_duration_measured_s": 2.9599999999983595,
+    "table_separated": true,
+    "warnings": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "coal_version": "3.0.4"
+}
